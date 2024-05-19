@@ -45,11 +45,5 @@ Conducted exploratory data analysis to answer specific business questions and ac
 - Time of day with the highest customer ratings for each branch.
 - Day of the week with the highest average ratings overall and for each branch.
 
-## Technologies Used
-- SQL (Structured Query Language) for database management and querying.
-- Git for version control and collaboration.
-- GitHub for project repository hosting and documentation.
-- VS Code as IDE.
-
 ## Conclusion
 Through comprehensive analysis of Amazon's sales data, this project aims to provide valuable insights and recommendations to improve sales strategies, customer segmentation, and overall business performance. The results obtained from this analysis can guide decision-making processes and drive future growth and profitability for Amazon.
